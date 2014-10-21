@@ -1,0 +1,855 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"fs",
+				"fs-i	font-style: italic;"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"fo",
+				"font-variant"
+			],
+			[
+				"di",
+				"d-ib	display: inline-block;"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"bk",
+				"background"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ffa",
+				"font-family"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"Qck",
+				"qcksndregular"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"q",
+				"qcksndregular"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"list-",
+				"list-style-image"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-variant"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"tal",
+				"ta-l	text-align: left;"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"bz",
+				"bgsz	background-size"
+			],
+			[
+				"bbo",
+				"border-bottom"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"bsh",
+				"box-shadow"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"bot",
+				"text-bottom"
+			],
+			[
+				"top",
+				"text-top"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8062,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 3082,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"bo",
+				"Snippet: border-box"
+			],
+			[
+				"clear",
+				"Snippet: clearfix"
+			],
+			[
+				"norm",
+				"Snippet: normalize"
+			],
+			[
+				"normal",
+				"Snippet: normalize"
+			],
+			[
+				"bore",
+				"Snippet: border-box"
+			],
+			[
+				"clea",
+				"Snippet: clearfix"
+			],
+			[
+				"bor",
+				"Snippet: border-box"
+			],
+			[
+				"place",
+				"Snippet: placehold"
+			],
+			[
+				"nor",
+				"Snippet: normalize"
+			],
+			[
+				"border",
+				"Snippet: border-box"
+			],
+			[
+				"snip",
+				"Snippet: imgmax"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 282.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/about.css",
+		"/Users/francinenavarro/Documents/portfolio/placeholder/css/main.css",
+		"/Users/francinenavarro/Documents/portfolio/placeholder/index.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Experiments/css-shapes",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week3Project/css/main.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week3Project/index.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 3/week3files/svg-tags.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 3/week3files/inline-svg/inline-svg.html",
+		"/Users/francinenavarro/Documents/portfolio/main.css",
+		"/Users/francinenavarro/Documents/portfolio/placeholder/js/script.js",
+		"/Users/francinenavarro/Documents/portfolio/index.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 3/week3files/responsive-exercises/ex4-ANSWER.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 3/week3files/responsive-exercises/ex3.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 3/week3files/responsive-exercises/ex1.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 3/week3files/responsive2.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 3/week3files/responsive1.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/profiles.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/js/script.js",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/requirements.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/mpi-registration/index.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/main.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/index.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/register.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/profiles.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/academics.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/academics.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/requirements.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/register.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/contact.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/about.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/apply.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/apply.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/contact.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/index.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/index2.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/jquery-plugin-exercise/index.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/academics2.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/courses.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/show-and-tell/accordion.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/show-and-tell/accordion-2.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/show-and-tell/tabs.html",
+		"/Users/francinenavarro/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/courses.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/readmore.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/list-exercises/lists-ex5-submenu-unhide-ANSWER.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/dropdownANSWER.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/navbar.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/profile.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/about.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/faculty.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/profiles.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/contact.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/css/faq.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Project/test.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/inputs-exercise.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/form.html",
+		"/Users/francinenavarro/Library/Application Support/Sublime Text 3/Packages/User/placehold.sublime-settings",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/layout.html",
+		"/Users/francinenavarro/Library/Application Support/Sublime Text 3/Packages/User/placehold.sublime-snippet",
+		"/Users/francinenavarro/Library/Application Support/Sublime Text 3/Packages/User/imgmax.sublime-snippet",
+		"/Users/francinenavarro/Library/Application Support/Sublime Text 3/Packages/User/imgmax.sublime.snippet",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week2Projectv2/index.html",
+		"/Users/francinenavarro/Dropbox/personal/kgWedding/css/main.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/list-exercises/lists-ex3-centered-nav.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/centered-nav.html",
+		"/Users/francinenavarro/Dropbox/personal/kgWedding/index.html",
+		"/Users/francinenavarro/Dropbox/portfolio/images/comment3.svg",
+		"/Users/francinenavarro/Dropbox/portfolio/css/style.css",
+		"/Users/francinenavarro/Dropbox/portfolio/index.html",
+		"/Users/francinenavarro/Dropbox/portfolio/images/contact.svg",
+		"/Users/francinenavarro/Dropbox/HackerYou/bootcamp/projects/week1project/css/style.css",
+		"/Users/francinenavarro/Dropbox/HackerYou/bootcamp/projects/week1project/index.html",
+		"/Users/francinenavarro/Dropbox/portfolio/images/twitter.svg",
+		"/Users/francinenavarro/Dropbox/portfolio/images/linkedin.svg",
+		"/Users/francinenavarro/Dropbox/portfolio/images/twitter2.svg",
+		"/Users/francinenavarro/Dropbox/portfolio/images/wordpress.svg",
+		"/Users/francinenavarro/Dropbox/personal/kgWedding/gettingready.html",
+		"/Users/francinenavarro/Documents/Web Dev Tools/deck.js-latest/boilerplate.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/positioning-and-floats 2/ex5-floats.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/positioning-and-floats/ex5-floats.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week2/week2files/semanticelements/styles/main.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week1project/index.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week1project/css/style.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week1Project_FrancineNavarro/index_2.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week1project/style.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week1project/css/main.css",
+		"/Users/francinenavarro/Dropbox/HackerYou/Experiments/francinenavarroSinglePage/index.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 1/week1files/floats.html",
+		"/Users/francinenavarro/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/projects/week1project/main.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 1/week1files/html-challenge.html",
+		"/Users/francinenavarro/Dropbox/HackerYou/Experiments/francinenavarroSinglePage/css/main.css",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 1/week1files/css-margin-padding-exercise.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 1/week1files/text-shadow.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 1/week1files/typography.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 1/week1files/bg-images/bg-images.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 1/week1files/css-class-selector.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 1/week1files/css-fun.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/Week 1/week1files/link-within.html",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/hello-world.html",
+		"/Users/francinenavarro/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/francinenavarro/Documents/HackerYou/bootcamp/emmet_shortcuts.html",
+		"/Users/francinenavarro/Desktop/test.html",
+		"/Users/francinenavarro/Dropbox/HackerYou/Experiments/francinenavarroResume/css/main.css",
+		"/Users/francinenavarro/Dropbox/HackerYou/Pre-Course Work/francinenavarroMultiPage/css/reset.css",
+		"/Users/francinenavarro/Dropbox/HackerYou/Pre-Course Work/francinenavarroMultiPage/css/pages.css",
+		"/Users/francinenavarro/Dropbox/HackerYou/Pre-Course Work/francinenavarroMultiPage/css/index.css",
+		"/Users/francinenavarro/Dropbox/HackerYou/Pre-Course Work/francinenavarroResume/index.html",
+		"/Users/francinenavarro/Documents/LLC-Intro-To-jQuery-master/examples/example-2/index.html",
+		"/Users/francinenavarro/Documents/Web Dev Tools/JS/flexslider-markup.html",
+		"/Users/francinenavarro/Documents/HackerYou/practice/sandwich/css/main.css",
+		"/Users/francinenavarro/Documents/HackerYou/practice/sandwich/css/reset.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fill=\"#000000\"",
+			"div",
+			"h4",
+			"</li>",
+			"<li>",
+			"div",
+			"}\n",
+			"focus",
+			"flex",
+			"\">\n",
+			" {",
+			"box",
+			"wrapper",
+			"program",
+			".</",
+			"dash",
+			"nav a",
+			"sub-nav",
+			"people",
+			"link",
+			"quick-li",
+			";\n",
+			"bottom",
+			"position: relative;",
+			".portfolio",
+			"/.contentWrapper",
+			"body",
+			"\n    margin: 0 auto;",
+			"projects",
+			"%;",
+			"svg",
+			"100",
+			"contentWrapper",
+			".skills",
+			"center",
+			"class",
+			"%;",
+			"dash",
+			"I",
+			"quality",
+			"20px",
+			"open_files",
+			">\n",
+			"  <"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 384.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2933,
+								2933
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1766.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "placeholder.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
